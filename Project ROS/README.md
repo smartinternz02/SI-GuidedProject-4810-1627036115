@@ -6,4 +6,4 @@ Project demonstration video:
 https://drive.google.com/file/d/14wrPLO7wWAyR9eDAJSjlSE4aRCP-Uf3u/view?usp=sharing
 
 Project demonstration PPT:
-https://docs.google.com/document/d/1JuxzgyeouL1B4HGFCouVMXkIyTMUG9SgpCg_1D83cc0/edit?usp=sharing
+https://docs.google.com/presentation/d/1fuHj50Ye8i2N-my3RFzuRthuwvr8TFCGg6UJqtn9qXA/edit?usp=sharing
